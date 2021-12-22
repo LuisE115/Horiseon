@@ -21,5 +21,5 @@ The new version of the webpage count with semantic elements following accessibil
 
 ## Page preview
 
-![Page preview])(./assets/images/preview1.jpg)
-![Page preview])(./assets/images/preview2.jpg)
+![Page preview](./assets/images/preview1.jpg)
+![Page preview](./assets/images/preview2.jpg)
